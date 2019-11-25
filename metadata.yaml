@@ -1,5 +1,8 @@
 _repo: Slater-s-1859-Shropshire-Directory_60729
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60729-h/images/cover.jpg
 creator:
   author:
     agent_name: Slater, I. (Isaac)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51106
     wikipedia: https://en.wikipedia.org/wiki/Isaac_Slater
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60729#Slater-s-1859-Shropshire-Directory
 gutenberg_issued: '2019-11-18'
 gutenberg_type: Text
 identifiers:
